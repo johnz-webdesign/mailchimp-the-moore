@@ -59,8 +59,9 @@ p {
 }
 
 .text-nav {
-  font-family: Manier, sans-serif;
+  font-family: "Source Serif 4", sans-serif;
   font-size: 30px;
+  font-weight: 400;
   line-height: 30px;
 }
 
@@ -170,8 +171,9 @@ p {
 
 .text-image {
   margin-top: 70px;
-  font-family: Manier, sans-serif;
+  font-family: "Source Serif 4", sans-serif;
   font-size: 30px;
+  font-weight: 400;
   line-height: 30px;
 }
 
@@ -337,7 +339,8 @@ p {
   letter-spacing: 4px;
   font-family: Sourcesansvariable Roman, sans-serif;
   font-size: 20px;
-  line-height: 37.5px;
+  line-height: 30px;
+  text-decoration: none;
   transition: opacity .25s;
 }
 
@@ -370,7 +373,8 @@ p {
   }
 
   .text-footer {
-    font-size: 30px;
+    font-size: 25px;
+    line-height: 37.5px;
   }
 
   .text-footer.italics {
@@ -384,8 +388,8 @@ p {
   }
 
   .text-footer {
-    font-size: 35px;
-    line-height: 52.5px;
+    font-size: 28px;
+    line-height: 42px;
   }
 
   .text-footer.italics {
